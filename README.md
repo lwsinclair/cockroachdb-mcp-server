@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/mseep-audited.png)](https://mseep.ai/app/dhartunian-cockroachdb-mcp-server)
+
 # CockroachDB MCP Server
 
 This MCP server connects to a CockroachDB instance, exposing database and table schemas as resources, running SQL queries as tools, and providing prompts for query analysis.
